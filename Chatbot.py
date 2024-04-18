@@ -1,3 +1,6 @@
+#  Copyright (c) 18.04.2024 [D. P.]
+#  All rights reserved.
+
 import os
 from langchain.vectorstores import Chroma
 from langchain.embeddings import HuggingFaceEmbeddings
